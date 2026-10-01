@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title">
-  <title id="title">Devlog PH</title>
-  <rect width="512" height="512" rx="72" fill="#121820"/>
-  <path fill="#F5F7FA" d="M92 102h158c86 0 139 47 139 122 0 74-53 121-139 121h-65v67H92V102zm93 82v80h59c34 0 53-14 53-40 0-27-19-40-53-40h-59z"/>
-  <path fill="#F5F7FA" d="M304 102h92v112h-62v82h62v116h-92V102z"/>
-  <path fill="#F5F7FA" d="M247 246h110v82H247z"/>
-  <path fill="#4D8DFF" d="M185 184h59c34 0 53 13 53 40 0 26-19 40-53 40h-59v-80z"/>
-</svg>
